@@ -15,8 +15,8 @@ repec/
 ├── README.md                         ← This file
 └── RePEc/
     └── cxs/
-        ├── arch.rdf                  ← Archive-level metadata
-        ├── seri.rdf                  ← Series-level metadata
+        ├── cxsarch.rdf                  ← Archive-level metadata
+        ├── cxsseri.rdf                  ← Series-level metadata
         └── wpaper/
             └── wpaper.rdf            ← All paper metadata (21 papers)
 ```
