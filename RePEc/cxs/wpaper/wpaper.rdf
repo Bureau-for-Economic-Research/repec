@@ -176,7 +176,7 @@ Handle: RePEc:cxs:wpaper:14
 Title: Powerless to Procure? Understanding municipal power procurement
 Author-Name: Robert Botha
 Abstract: Examines the regulatory and institutional barriers preventing South African municipalities from procuring electricity from independent power producers despite reforms intended to enable municipal electricity procurement.
-Creation-Date: 20250101
+Creation-Date: 2025-10-12
 File-URL: https://www.ber.ac.za/Documents/ViewMode/5f158df4-3525-47b8-b086-bdb99bf5776c
 File-Format: Application/pdf
 Keywords: electricity, municipalities, independent power producers, South Africa, regulation
@@ -188,7 +188,7 @@ Title: Tapping into Efficiency: Private Sector Participation in Water
 Author-Name: Robert Botha
 Author-Name: Roy Havemann
 Abstract: Explores how private sector participation in water service provision could improve efficiency, service delivery, and infrastructure maintenance in South Africa's water sector.
-Creation-Date: 20250101
+Creation-Date: 2025-08-27
 File-URL: https://www.ber.ac.za/Documents/ViewMode/d20128a3-2ed5-4532-a727-3b219fc2958d
 File-Format: Application/pdf
 Keywords: water, private sector, service delivery, infrastructure, South Africa
@@ -200,7 +200,7 @@ Title: The effect of home fibre on economic participation in Kayamandi, Stellenb
 Author-Name: Helanya Fourie
 Author-Name: Debra Shepherd
 Abstract: Evaluates whether access to fibre broadband improves economic participation in a South African township. The study finds that home fibre is associated with greater labour market engagement and increased opportunities for self-employment.
-Creation-Date: 20250101
+Creation-Date: 2025-11-20
 File-URL: https://www.ber.ac.za/Documents/ViewMode/b3dcce8c-0721-4bba-99a6-d7be87abfbe7
 File-Format: Application/pdf
 Keywords: broadband, fibre, labour market, township, South Africa
@@ -212,7 +212,7 @@ Title: Fibre broadband and online behaviour in a South African township
 Author-Name: Helanya Fourie
 Author-Name: Debra Shepherd
 Abstract: Analyses how improved internet access affects online behaviour. Results show increased use of the internet for education, job search, and information access following the rollout of fibre broadband.
-Creation-Date: 20250101
+Creation-Date: 2025-11-20
 File-URL: https://www.ber.ac.za/Documents/ViewMode/b1309b7b-5078-4456-a1ce-7d76fde29ce3
 File-Format: Application/pdf
 Keywords: internet access, broadband, digital behaviour, township, South Africa
@@ -224,7 +224,7 @@ Title: Beyond GDP: Towards a real-time barometer of economic activity
 Author-Name: Johan Fourie
 Author-Name: Helanya Fourie
 Abstract: Explores the limitations of GDP as a real-time indicator of economic performance and proposes the development of a high-frequency economic barometer using alternative data sources to track economic activity more quickly.
-Creation-Date: 20260101
+Creation-Date: 2026-02-05
 File-URL: https://www.ber.ac.za/Documents/ViewMode/13db9793-7c86-48b4-bd88-869790d451d8
 File-Format: Application/pdf
 Keywords: GDP, high-frequency data, economic indicators, South Africa
@@ -235,7 +235,7 @@ Handle: RePEc:cxs:wpaper:19
 Title: Turning SA's sunset mining sector into a sunrise industry
 Author-Name: Robert Botha
 Abstract: Argues that South Africa's mining sector has significant untapped potential. The paper shows that policy uncertainty, regulatory bottlenecks and administrative inefficiencies—not resource depletion—are the key constraints preventing the sector from expanding.
-Creation-Date: 20260101
+Creation-Date: 2026-02-09
 File-URL: https://www.ber.ac.za/Documents/ViewMode/60311540-81c8-4b70-bd19-9f3f90198ff4
 File-Format: Application/pdf
 Keywords: mining, South Africa, policy uncertainty, regulatory reform
@@ -247,7 +247,7 @@ Title: Reform Barometer – March 2026: Structural reform continues, slow and st
 Author-Name: Rose Murunzi
 Author-Name: Roy Havemann
 Abstract: Introduces a reform barometer to track progress in structural reforms in South Africa. The note assesses whether implemented reforms are translating into measurable improvements in economic performance and growth outcomes.
-Creation-Date: 20260101
+Creation-Date: 2026-03-11
 File-URL: https://www.ber.ac.za/Documents/ViewMode/60311540-81c8-4b70-bd19-9f3f90198ff4
 File-Format: Application/pdf
 Keywords: structural reform, South Africa, economic performance, growth
@@ -258,8 +258,30 @@ Handle: RePEc:cxs:wpaper:21
 Title: The political economy of growth coalitions
 Author-Name: Johan Fourie
 Abstract: Examines how political coalitions shape economic growth outcomes in South Africa, analysing the incentives and constraints facing key actors in the growth policy arena.
-Creation-Date: 20260101
+Creation-Date: 2026-03-17
 File-URL: https://www.ber.ac.za/Documents/ViewMode/ccca0366-7851-42bf-a76f-40bea23f82d4
 File-Format: Application/pdf
 Keywords: political economy, growth coalitions, South Africa, institutions
 Classification-JEL: O43 P16 D72
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:22
+Title: Pick a bird, any bird: Scenarios for the South African economic (2026-2030)
+Author-Name: BER team
+Abstract: This comprehensive document, "Pick a Bird. Any Bird: Scenarios for the South African economy (2026-2030)" outlines a detailed route to economic success: growth that lifts South Africans out of poverty and creates a platform for sustained long-term prosperity.
+Creation-Date: 2026-03-17
+File-URL: https://www.ber.ac.za/Documents/ViewMode/a904b262-c1fb-452a-b13b-1f0b45558067
+File-Format: Application/pdf
+Keywords: political economy, growth coalitions, South Africa, institutions
+Classification-JEL: O43 O55 P16
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:23
+Title: Contractual savings and public investment: are our retirement funds misallocated?
+Author-Name: Andrew Donaldson
+Abstract: The paper charts the evolution of South Africa’s pension fund industry spanning the past 40 years. It shows that the increase in assets under management has been accompanied by a relative decline in investment in public sector debt. The analysis raises important questions about sustainable financing of growth and development
+Creation-Date: 2026-03-17
+File-URL: https://www.ber.ac.za/Documents/ViewMode/a904b262-c1fb-452a-b13b-1f0b45558067
+File-Format: Application/pdf
+Keywords: savings, investment
+Classification-JEL: G23 G28
