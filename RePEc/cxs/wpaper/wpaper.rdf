@@ -73,12 +73,12 @@ Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:cxs:wpaper:202403
 Title: Redefining South Africa's economic trajectory
 Author-Name: BER team
-Abstract: With the appropriate policy choices, South Africa does not need miracles or fairy tales for a better outcome. We need sustained implementation of existing structural reform plans. Taking Operation Vulindlela (OV) as a starting point, this note explores what would be needed to lift South Africa's trajectory to a faster, stronger growth path. 
+Abstract: With the appropriate policy choices, South Africa does not need miracles or fairy tales for a better outcome. We need sustained implementation of existing structural reform plans. Taking Operation Vulindlela as a starting point, this note explores what would be needed to lift South Africa's trajectory to a faster, stronger growth path.
 Creation-Date: 2024-07-02
 File-URL: https://www.ber.ac.za/Documents/ViewMode/fd5a6f16-1ad0-4663-8949-6fb08c00ce0c
 File-Format: Application/pdf
-Keywords: National Health Insurance, NHI, healthcare, South Africa, health policy
-Classification-JEL: I13 I18 H51
+Keywords: economic growth, structural reform, Operation Vulindlela, South Africa
+Classification-JEL: O43 O55 E60
 
 Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:cxs:wpaper:202404
@@ -129,7 +129,7 @@ Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:cxs:wpaper:202502
 Title: How indebted is South Africa really?
 Author-Name: Robert Botha
-Abstract: Discusses different ways of measuring public debt, highlighting that debt sustainability has a number of angles
+Abstract: Discusses different ways of measuring public debt, highlighting that debt sustainability has a number of angles.
 Creation-Date: 2025-05-23
 File-URL: https://www.ber.ac.za/Documents/ViewMode/5d5532ac-919c-4259-a3aa-2dd2f47009d0
 File-Format: Application/pdf
@@ -266,22 +266,77 @@ Classification-JEL: O43 P16 D72
 
 Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:cxs:wpaper:202605
-Title: Pick a bird, any bird: Scenarios for the South African economic (2026-2030)
+Title: Pick a bird, any bird: Scenarios for the South African economy (2026-2030)
 Author-Name: BER team
 Abstract: This comprehensive document, "Pick a Bird. Any Bird: Scenarios for the South African economy (2026-2030)" outlines a detailed route to economic success: growth that lifts South Africans out of poverty and creates a platform for sustained long-term prosperity.
 Creation-Date: 2026-03-26
 File-URL: https://www.ber.ac.za/Documents/ViewMode/a904b262-c1fb-452a-b13b-1f0b45558067
 File-Format: Application/pdf
-Keywords: political economy, growth coalitions, South Africa, institutions
+Keywords: scenarios, South Africa, economic growth, planning
 Classification-JEL: O43 O55 P16
 
 Template-Type: ReDIF-Paper 1.0
 Handle: RePEc:cxs:wpaper:202606
 Title: Contractual savings and public investment: are our retirement funds misallocated?
 Author-Name: Andrew Donaldson
-Abstract: The paper charts the evolution of South Africa's pension fund industry spanning the past 40 years. It shows that the increase in assets under management has been accompanied by a relative decline in investment in public sector debt. The analysis raises important questions about sustainable financing of growth and development
+Abstract: The paper charts the evolution of South Africa's pension fund industry spanning the past 40 years. It shows that the increase in assets under management has been accompanied by a relative decline in investment in public sector debt. The analysis raises important questions about sustainable financing of growth and development.
 Creation-Date: 2026-04-16
 File-URL: https://www.ber.ac.za/Documents/ViewMode/b75582ed-227b-4ccd-a629-841277710a07
 File-Format: Application/pdf
-Keywords: savings, investment
+Keywords: savings, investment, pension funds, South Africa
 Classification-JEL: G23 G28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:202607
+Title: Contractual savings and public investment: are our retirement funds misallocated? (Slides)
+Author-Name: Andrew Donaldson
+Abstract: The paper charts the evolution of South Africa's pension fund industry spanning the past 40 years. It shows that the increase in assets under management has been accompanied by a relative decline in investment in public sector debt. The analysis raises important questions about sustainable financing of growth and development.
+Creation-Date: 2026-04-16
+File-URL: https://www.ber.ac.za/Documents/ViewMode/bba4cbc8-d6a2-4e51-887e-e1b2b30d32a2
+File-Format: Application/pdf
+Keywords: savings, investment, pension funds, South Africa
+Classification-JEL: G23 G28
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:202608
+Title: Putting AI to work for South Africans
+Author-Name: Johan Fourie
+Abstract: The argument of this note is simple: a national AI policy will be judged by whether it equips and empowers South Africans to put the defining general-purpose technology of this era to work to build a more prosperous future, or stands between them and it.
+Creation-Date: 2026-05-04
+File-URL: https://www.ber.ac.za/Documents/ViewMode/61c0cd4d-2f71-4e3e-9cbf-2e1ee911490b
+File-Format: Application/pdf
+Keywords: artificial intelligence, AI policy, economic growth, South Africa
+Classification-JEL: O33 O38
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:202609
+Title: Growth, structure and labour absorption: Economic reform and South Africa's jobs challenge
+Author-Name: Helanya Fourie
+Abstract: The official data shows that only 4 out of 10 working-age adults are employed. The economy needs to become better at creating jobs and absorbing labour for unemployment to fall at the scale required. And to do this, large and small firms need reliable and affordable infrastructure, better local service delivery, improved spatial planning, and a predictable regulatory environment that does not constrain economic dynamism. Only if those basics improve will firms be more willing to take the risk of investing, expanding and hiring.
+Creation-Date: 2026-05-13
+File-URL: https://www.ber.ac.za/Documents/ViewMode/25eaf357-95fa-45e2-8ccf-a8b6d6802979
+File-Format: Application/pdf
+Keywords: growth, employment, labour absorption, structural reform, South Africa
+Classification-JEL: J21 J23 O55
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:202610
+Title: How vehicle imports are reshaping South Africa's motor industry
+Author-Name: Rose Murunzi
+Abstract: Vehicle imports from China and India have become one of the most visible shifts in South Africa's automotive market over the past few years. Lower-priced vehicles from both markets have expanded consumer choice and improved affordability in an economy where households have become increasingly price-sensitive. At the same time, rising imports have intensified competition for domestic producers and contributed to growing concern about the long-term trajectory of local manufacturing, investment and employment within the automotive sector.
+Creation-Date: 2026-05-25
+File-URL: https://www.ber.ac.za/Documents/ViewMode/65045ea1-cf64-4696-8fd5-67de02c58c09
+File-Format: Application/pdf
+Keywords: vehicle imports, automotive industry, industrial policy, trade, South Africa
+Classification-JEL: L62 O25 F14
+
+Template-Type: ReDIF-Paper 1.0
+Handle: RePEc:cxs:wpaper:202611
+Title: Reform Barometer – June 2026: Reforms slowly bearing fruit – implementation is the challenge
+Author-Name: Rose Murunzi
+Abstract: South Africa's real GDP expanded for the sixth consecutive quarter in 2026Q1. This is the longest expansion since 2017/18, partly because structural reforms are finally bearing fruit. But growth is still slow. After expanding last year, investment spending contracted again. The global environment is also very complicated. These factors make maintaining reform momentum urgent.
+Creation-Date: 2026-06-10
+File-URL: https://www.ber.ac.za/Documents/ViewMode/f08d9511-014e-4d7e-a3ac-61091e7aae11
+File-Format: Application/pdf
+Keywords: structural reform, South Africa, economic performance, growth, reform barometer
+Classification-JEL: O43 O55 P16
